@@ -1,1 +1,1 @@
-/Users/havenkat/work/src/github.com/havenkat/rust/stack/target/debug/stack: /Users/havenkat/work/src/github.com/havenkat/rust/stack/src/collection.rs /Users/havenkat/work/src/github.com/havenkat/rust/stack/src/main.rs
+/Users/havenkat/work/src/github.com/havenkat/rust/stack/target/debug/stack: /Users/havenkat/work/src/github.com/havenkat/rust/stack/src/collection.rs /Users/havenkat/work/src/github.com/havenkat/rust/stack/src/main.rs /Users/havenkat/work/src/github.com/havenkat/rust/stack/src/series.rs
